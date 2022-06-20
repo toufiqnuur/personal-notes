@@ -11,4 +11,4 @@ Proyek akhir kelas dicoding "Belajar Membuat Aplikasi Web dengan React" mendapat
 
 ## Screenshot
 
-![screenshoot.jpg](screenshoot.jpg)
+![screenshot.jpg](screenshot.jpg)
